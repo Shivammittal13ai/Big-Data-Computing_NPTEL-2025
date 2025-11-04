@@ -22,6 +22,28 @@ This repository is created to help learners by:
 
 ---
 
+## 💡 Final Exam Review (Session: 2025, Shift: Forenoon/Morning)
+
+### 📊 Exam Overview:
+- Total Questions: 60
+- Total Marks: 100
+- Question Type: Multiple Choice (MCQ only)
+- Negative Marking: ❌ None
+
+### 📚 Section-wise Distribution:
+| Section       | No. of Questions | Marks |
+| ------------- | ---------------- | ----- |
+| **Section 1** | 20               | 20    |
+| **Section 2** | 20               | 40    |
+| **Section 3** | 20               | 40    |
+
+### 🧠 Key Insights:
+- Many questions were easy and could be solved through logic, which naturally develops after studying all 8 assignments.
+- Many questions were indirectly based on the assignments, but thoroughly covering them laid a strong foundation for understanding and reasoning.
+- Only one numerical question was present — and that too was simple (related to the default block size in HDFS and calculating the number of blocks and replicas, etc.).
+
+---
+
 ## 🤝 Contributions
 
 You are welcome to contribute by:
