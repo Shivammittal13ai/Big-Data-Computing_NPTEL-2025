@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 23, 2026, 11_26_43 AM" src="https://github.com/user-attachments/assets/c34cb2d6-aee7-48fb-95bd-d0327139336e" />
+
+
 # Big Data Computing – SWAYAM NPTEL (Assignments, Notes & Exam Review)
 
 📘 This repository contains **assignment** from the **Big Data Computing** course offered by **SWAYAM NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
