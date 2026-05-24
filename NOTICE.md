@@ -1,6 +1,6 @@
 ## Attribution Notice
 
-The materials in this repository are based on the "Big Data Computing" course offered by SWAYAM-NPTEL.
+The materials in this repository are based on the "Big Data Computing" course offered by **IIT Patna** in collaboration with **SWAYAM-NPTEL**.
 
 - **Instructor:** Prof. Rajiv Misra – IIT Patna
 - **Platform:** [SWAYAM-NPTEL](https://swayam.gov.in/)
