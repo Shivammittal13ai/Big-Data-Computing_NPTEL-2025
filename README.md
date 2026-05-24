@@ -1,29 +1,34 @@
 <img width="1536" height="1024" alt="ChatGPT Image May 23, 2026, 11_26_43 AM" src="https://github.com/user-attachments/assets/c34cb2d6-aee7-48fb-95bd-d0327139336e" />
 
 
-# Big Data Computing – SWAYAM NPTEL (Assignments, Notes & Exam Review)
+# Big Data Computing – SWAYAM NPTEL | IIT Patna (Assignments, Notes & Final Exam Review)
 
-📘 This repository contains **assignment** from the **Big Data Computing** course offered by **SWAYAM NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignments** from the **Big Data Computing** course offered by **IIT Patna** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
 
-🧾 It also includes a **final exam review and analysis** for the 2025 session, covering the **exam pattern, section-wise structure, and key insights** — designed to help future learners understand the paper format and prepare effectively.
+🧾 It also includes a **final exam review and analysis** for the Aug-Oct 2025 session, covering the **exam pattern, section-wise structure, and key insights** designed to help future learners understand the paper format and prepare effectively.
 
 ---
 
 ## 🎯 Purpose
 
 This repository is created to help learners by:
-- Providing assignment for multiple NPTEL sessions (2019, 2021, 2022, 2023, 2024, 2025) for quick revision and reference
-- Sharing lecture notes from the 2025 session for reference
+
+- Providing assignments from multiple NPTEL sessions (2019, 2021, 2022, 2023, 2024, 2025) for quick revision and reference.
+- Sharing official lecture notes from 2025 session for reference.
+- 
 
 ---
 
-## 📌 About the Course
+## 📌 Course Information
 
-- **Course Name:** Big Data Computing 
-- **Platform:** SWAYAM–NPTEL  
-- **Instructor:** Prof. Rajiv Misra – IIT Patna 
-- **Duration:** 12 Weeks  
-- **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs131/preview](https://onlinecourses.nptel.ac.in/noc25_cs131/preview)
+| Field | Details | 
+|---|---| 
+| **Course** | Big Data Computing | 
+| **Platform** | SWAYAM – NPTEL | 
+| **Institute** | IIT Patna | 
+| **Instructor** | Prof. Rajiv Misra | 
+| **Duration** | 8 Weeks | 
+| **Course Link** | https://onlinecourses.nptel.ac.in/e-learning/preview/noc25_cs131 |
 
 ---
 
