@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image May 23, 2026, 11_26_43 AM" src="https://github.com/user-attachments/assets/c34cb2d6-aee7-48fb-95bd-d0327139336e" />
+<img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 02_44_11 PM" src="https://github.com/user-attachments/assets/67efaf5c-4c5e-4013-ad85-0017342d4ff9" />
 
 
 # Big Data Computing – SWAYAM NPTEL | IIT Patna (Assignments, Notes & Final Exam Review)
