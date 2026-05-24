@@ -5,7 +5,7 @@
 
 📘 This repository contains **assignments** from the **Big Data Computing** course offered by **IIT Patna** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
 
-🧾 It also includes a **final exam review and analysis** for the Aug-Oct 2025 session, covering the **exam pattern, section-wise structure, and key insights** designed to help future learners understand the paper format and prepare effectively.
+🧾 It also includes a **final exam review and analysis** for the **Aug–Oct 2025 session**, covering the **exam pattern, section-wise structure, and key insights**, designed to help future learners understand the paper format and prepare effectively.
 
 ---
 
@@ -14,8 +14,8 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2019, 2021, 2022, 2023, 2024, 2025) for quick revision and reference.
-- Sharing official lecture notes from 2025 session for reference.
-- 
+- Sharing official lecture notes from the 2025 session for reference.
+- Providing insights into the final exam pattern, section-wise structure, and key preparation areas from the Aug-Oct 2025 session.
 
 ---
 
@@ -32,7 +32,7 @@ This repository is created to help learners by:
 
 ---
 
-## 💡 Final Exam Review (Session: 2025, Shift: Forenoon/Morning)
+## 💡 Final Exam Review (Session: Aug-Oct 2025, Shift: Forenoon)
 
 ### 📊 Exam Overview:
 - Total Questions: 60
@@ -41,6 +41,7 @@ This repository is created to help learners by:
 - Negative Marking: ❌ None
 
 ### 📚 Section-wise Distribution:
+
 | Section       | No. of Questions | Marks |
 | ------------- | ---------------- | ----- |
 | **Section 1** | 20               | 20    |
@@ -48,20 +49,31 @@ This repository is created to help learners by:
 | **Section 3** | 20               | 40    |
 
 ### 🧠 Key Insights:
+
 - Many questions were easy and could be solved through logic, which naturally develops after studying all 8 assignments.
 - Many questions were indirectly based on the assignments, but thoroughly covering them laid a strong foundation for understanding and reasoning.
-- Only one numerical question was present — and that too was simple (related to the default block size in HDFS and calculating the number of blocks and replicas, etc.).
+- Only one numerical question was present, which was straightforward & related to the default block size in HDFS and calculating the number of blocks and replicas.
 
 ---
 
 ## 🤝 Contributions
 
 You are welcome to contribute by:
-- Adding new session materials (e.g., from other years)
-- Correcting mistakes or improving clarity
-- Sharing additional learning resources
 
-Please feel free to open a pull request or raise an issue.
+- Adding new session materials (e.g., from other years).
+- Improving organization and clarity.
+- Fixing errors or broken resources.
+- Sharing additional learning resources.
+
+Feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a star ⭐  
+
+It helps the repository reach more learners and supports future improvements.
 
 ---
 
@@ -69,18 +81,15 @@ Please feel free to open a pull request or raise an issue.
 
 This repository is intended **strictly for educational and non-commercial use only**.  
 
-- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIT Kharagpur**, and the **respective instructor(s)**.  
+- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIT Patna**, and the **respective instructor(s)**.  
 - This repository does **not claim any ownership** over the content. It is shared with the intent to help fellow students revise and learn better.  
 
-> **Note:** If NPTEL or any copyright holder requests content removal,  
-> **I will comply immediately.**
-
-> **If you are a copyright holder and have concerns regarding this repository,  
-> please open an issue on this GitHub repo. I will take immediate action.**
+> If any copyright holder or official authority requests content removal, the content will be removed immediately.
 
 By using this repository, you agree to:
+
 - Use the materials **ethically**
-- **Avoid plagiarism** in your own submissions
+- **Avoid plagiarism** in academic submissions
 - Respect the original creators and instructors
 
 ---
