@@ -71,7 +71,7 @@ Feel free to open an issue or submit a pull request.
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a star ⭐  
+If you find this repository helpful, consider giving it a star ⭐.  
 
 It helps the repository reach more learners and supports future improvements.
 
