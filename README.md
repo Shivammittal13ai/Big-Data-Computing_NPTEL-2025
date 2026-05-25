@@ -3,7 +3,7 @@
 
 # Big Data Computing – SWAYAM NPTEL | IIT Patna (Assignments, Notes & Final Exam Review)
 
-📘 This repository contains **assignments** from the **Big Data Computing** course offered by **IIT Patna** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignments** from the **Big Data Computing** course offered by **IIT Patna** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **Aug–Oct 2025 session** by the instructor.
 
 🧾 It also includes a **final exam review and analysis** for the **Aug–Oct 2025 session**, covering the **exam pattern, section-wise structure, and key insights**, designed to help future learners understand the paper format and prepare effectively.
 
@@ -14,7 +14,7 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2019, 2021, 2022, 2023, 2024, 2025) for quick revision and reference.
-- Sharing official lecture notes from the 2025 session for reference.
+- Sharing official lecture notes from the Aug–Oct 2025 session for reference.
 - Providing insights into the final exam pattern, section-wise structure, and key preparation areas from the Aug-Oct 2025 session.
 
 ---
