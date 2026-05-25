@@ -30,6 +30,8 @@ This repository is created to help learners by:
 | **Duration** | 8 Weeks | 
 | **Course Link** | https://onlinecourses.nptel.ac.in/e-learning/preview/noc25_cs131 |
 
+> 💡 **Note:** This course is offered **only once a year**.
+
 ---
 
 ## 💡 Final Exam Review (Session: Aug-Oct 2025, Shift: Forenoon)
